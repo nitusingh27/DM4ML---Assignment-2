@@ -74,26 +74,21 @@ For ranking evaluation, ratings of 4 or above are considered relevant.
 
 ### 5.3 Model Comparison Results
 
-The following results were obtained from the recommendation ranking evaluation:
+The following results were obtained from the final model evaluation:
 
 | Metric | Popularity-Based | Collaborative Filtering |
 |---|---:|---:|
-| Precision@10 | 0.0504 | 0.0492 |
-| Recall@10 | 0.1495 | 0.1333 |
-| NDCG@10 | 0.1074 | 0.0929 |
-| Coverage | 0.25 | 1.00 |
-| Diversity | 0.7345 | 0.7501 |
+| Precision@10 | 0.0514 | 0.0453 |
+| Recall@10 | 0.1508 | 0.1279 |
+| NDCG@10 | 0.1051 | 0.0932 |
+| Coverage | 0.2521 | 1.0000 |
+| Diversity | 0.8528 | 0.8295 |
+| RMSE | N/A | 2.8151 |
+| MAE | N/A | 2.5512 |
 
-**Collaborative-filtering rating prediction results:**
+The popularity-based model achieves higher Precision@10, Recall@10, NDCG@10, and Diversity in this experiment. Collaborative filtering achieves higher catalogue coverage.
 
-| Metric | Result |
-|---|---:|
-| RMSE | 2.8249 |
-| MAE | 2.5711 |
-
-The popularity-based model is evaluated using recommendation ranking metrics. RMSE and MAE are reported for collaborative-filtering rating predictions.
-
-The popularity-based model provides stronger Precision@10, Recall@10, and NDCG@10 in this experiment, while collaborative filtering achieves higher catalogue coverage and diversity.
+RMSE and MAE are reported for collaborative-filtering rating predictions. The popularity-based model is a ranking-only model, so rating-prediction RMSE and MAE are not applicable.
 
 Detailed evaluation results are available in:
 
@@ -136,6 +131,11 @@ The validation report is available at `reports/data_validation_report.csv`.
 MLflow was used during the project to track model experiments and evaluation metrics.
 
 The experiments include popularity-based recommendation and collaborative-filtering models.
+
+Two completed MLflow runs were recorded:
+
+- `Popularity_Based_Model`
+- `Collaborative_Filtering_Model`
 
 The local MLflow database is not included in the GitHub repository.
 
@@ -230,6 +230,7 @@ The repository includes:
 - Pipeline architecture diagram.
 - Workflow execution script, logs, and results.
 - Requirements file and project documentation.
+- Final execution evidence report.
 
 ---
 
