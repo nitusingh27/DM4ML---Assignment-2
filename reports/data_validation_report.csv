@@ -1,0 +1,11 @@
+Dataset,Validation Check,Issues Found,Status
+Users,Missing Values,2,FAIL
+Movies,Missing Values,2,FAIL
+Ratings,Missing Values,1,FAIL
+Users,Duplicate Records,1,FAIL
+Movies,Duplicate Records,1,FAIL
+Ratings,Duplicate Records,1,FAIL
+Ratings,Invalid Ratings,2,FAIL
+Ratings,Invalid Timestamps,1,FAIL
+Ratings,Invalid User References,1,FAIL
+Ratings,Invalid Movie References,1,FAIL

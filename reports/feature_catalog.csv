@@ -1,0 +1,27 @@
+Feature Name,Description,Data Type,Purpose
+user_id,Unique identifier of each user,Integer,User identification
+age,Age of the user,Float,User demographics
+age_group,Age category of the user,Category,User segmentation
+occupation,User occupation represented through one-hot encoding,Binary,User demographics
+preferred_genre,User preferred genres represented through one-hot encoding,Binary,User preferences
+total_ratings,Total number of ratings given by a user,Integer,User activity
+average_rating,Average rating given by a user,Float,User preferences
+minimum_rating,Minimum rating given by a user,Float,User activity
+maximum_rating,Maximum rating given by a user,Float,User activity
+last_interaction,Most recent interaction timestamp of a user,Datetime,User activity
+movie_id,Unique identifier of each movie,Integer,Movie identification
+title,Title of the movie,String,Movie metadata
+release_year,Year in which the movie was released,Integer,Movie metadata
+genres,Movie genres represented through one-hot encoding,Binary,Movie characteristics
+release_decade,Decade in which the movie was released,Integer,Movie characteristics
+total_ratings,Total number of ratings received by a movie,Integer,Movie popularity
+average_rating,Average rating received by a movie,Float,Movie quality
+minimum_rating,Minimum rating received by a movie,Float,Movie statistics
+maximum_rating,Maximum rating received by a movie,Float,Movie statistics
+rating_id,Unique identifier of each rating interaction,Integer,Interaction identification
+rating,Rating given by a user to a movie,Float,User-movie interaction
+timestamp,Date and time of the rating interaction,Datetime,Temporal information
+rating_year,Year of the rating interaction,Integer,Temporal information
+rating_month,Month of the rating interaction,Integer,Temporal information
+rating_day_of_week,Day of the week of the rating interaction,Integer,Temporal information
+days_since_last_interaction,Days since the user's previous interaction,Float,User activity

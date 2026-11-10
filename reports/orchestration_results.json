@@ -1,0 +1,25 @@
+{
+    "status": "SUCCESS",
+    "train_records": 12000,
+    "test_records": 3000,
+    "transformed_datasets": {
+        "user_activity": [
+            250,
+            6
+        ],
+        "item_popularity": [
+            120,
+            3
+        ],
+        "user_item_matrix": [
+            250,
+            120
+        ]
+    },
+    "evaluation_metrics": {
+        "RMSE": 2.8249004493150816,
+        "MAE": 2.5711392936375246,
+        "Precision@K": 0.051250000000000004,
+        "Recall@K": 0.13325892857142857
+    }
+}

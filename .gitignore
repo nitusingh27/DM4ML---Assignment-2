@@ -1,0 +1,28 @@
+# Local databases
+mlflow.db
+*.sqlite
+*.sqlite3
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Environment and credentials
+.env
+.env.*
+*.pem
+*.key
+
+# Google Colab and Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Older feature datasets from previous pipeline version
+data/features/rating_features.csv
+data/features/enhanced_user_features.csv
+data/features/enhanced_movie_features.csv
+data/features/enhanced_interaction_features.csv
+
+# Duplicate transformed datasets
+data/processed/user_activity.csv
+data/processed/item_popularity.csv
+data/processed/user_item_matrix.csv

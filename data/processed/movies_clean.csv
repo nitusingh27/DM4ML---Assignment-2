@@ -1,0 +1,121 @@
+movie_id,title,genres,release_year
+1,The Last Journey 1,Action|Horror|Thriller,2012
+2,Dark Secrets 2,Thriller|Animation,2006
+3,Love in Paris 3,Drama|Horror|Romance,2000
+4,The Final Mission 4,Action,2021
+5,The Lost World 5,Drama,2023
+6,City of Dreams 6,Action,2006
+7,Beyond the Stars 7,Thriller|Sci-Fi,2004
+8,The Last Journey 8,Thriller|Sci-Fi|Horror,2021
+9,The Final Mission 9,Thriller,2024
+10,Love in Paris 10,Animation|Romance,2006
+11,Beyond the Stars 11,Animation,2006
+12,The Lost World 12,Comedy,2000
+13,The Final Mission 13,Animation|Drama|Comedy,2011
+14,The Final Mission 14,Action|Romance|Horror,2025
+15,Hidden Truth 15,Drama|Action|Thriller,2001
+16,The Final Mission 16,Thriller|Drama|Action,2014
+17,City of Dreams 17,Romance,2007
+18,City of Dreams 18,Horror|Action|Comedy,2007
+19,The Lost World 19,Animation,2006
+20,City of Dreams 20,Drama,2000
+21,The Last Journey 21,Drama|Romance|Sci-Fi,2008
+22,Love in Paris 22,Horror,2002
+23,Dark Secrets 23,Thriller|Animation,2016
+24,Love in Paris 24,Action|Animation,2005
+25,Beyond the Stars 25,Comedy|Sci-Fi|Thriller,2001
+26,Beyond the Stars 26,Drama|Action|Thriller,2024
+27,The Final Mission 27,Thriller,2019
+28,The Lost World 28,Animation|Comedy|Romance,2020
+29,Love in Paris 29,Comedy|Drama,2019
+30,City of Dreams 30,Action|Horror,2022
+31,Beyond the Stars 31,Sci-Fi|Action|Romance,2010
+32,The Last Journey 32,Comedy|Romance,2013
+33,The Last Journey 33,Sci-Fi|Comedy|Drama,2004
+34,Beyond the Stars 34,Drama|Action|Comedy,2004
+35,Dark Secrets 35,Action|Horror|Comedy,2004
+36,Love in Paris 36,Romance,2005
+37,Beyond the Stars 37,Sci-Fi|Drama|Romance,2017
+38,The Last Journey 38,Sci-Fi,2010
+39,The Lost World 39,Action|Drama|Horror,2017
+40,Beyond the Stars 40,Drama|Animation|Sci-Fi,2012
+41,The Lost World 41,Romance,2000
+42,Beyond the Stars 42,Horror|Action,2007
+43,The Final Mission 43,Comedy|Thriller|Animation,2011
+44,The Final Mission 44,Comedy,2018
+45,Love in Paris 45,Drama|Sci-Fi|Comedy,2003
+46,Beyond the Stars 46,Comedy|Action|Thriller,2004
+47,The Lost World 47,Thriller,2007
+48,Love in Paris 48,Romance,2008
+49,City of Dreams 49,Drama,2007
+50,Dark Secrets 50,Action|Animation,2016
+51,Beyond the Stars 51,Thriller|Sci-Fi,2021
+52,The Final Mission 52,Horror|Sci-Fi,2002
+53,The Final Mission 53,Thriller|Comedy,2012
+54,Love in Paris 54,Action|Comedy,2021
+55,The Final Mission 55,Horror|Drama|Comedy,2020
+56,Hidden Truth 56,Animation|Sci-Fi|Action,2004
+57,Dark Secrets 57,Romance,2011
+58,The Final Mission 58,Drama|Horror|Animation,2002
+59,The Final Mission 59,Animation,2013
+60,City of Dreams 60,Sci-Fi|Horror|Thriller,2003
+61,The Last Journey 61,Thriller|Drama,2001
+62,The Lost World 62,Animation,2018
+63,Love in Paris 63,Action,2002
+64,City of Dreams 64,Action|Drama,2024
+65,The Final Mission 65,Horror,2015
+66,Dark Secrets 66,Drama|Action,2018
+67,Love in Paris 67,Action,2020
+68,Dark Secrets 68,Sci-Fi|Action|Horror,2000
+69,Hidden Truth 69,Comedy|Sci-Fi,2024
+70,Dark Secrets 70,Comedy|Sci-Fi,2005
+71,City of Dreams 71,Horror|Animation|Thriller,2009
+72,The Final Mission 72,Horror|Sci-Fi,2005
+73,Love in Paris 73,Romance,2025
+74,The Lost World 74,Drama|Comedy|Sci-Fi,2004
+75,The Last Journey 75,Horror|Thriller,2003
+76,City of Dreams 76,Comedy|Drama,2023
+77,City of Dreams 77,Action,2006
+78,Beyond the Stars 78,Drama|Action|Thriller,2024
+79,Beyond the Stars 79,Animation,2025
+80,Love in Paris 80,Horror|Sci-Fi|Drama,2014
+81,The Lost World 81,Action|Horror,2013
+82,Beyond the Stars 82,Sci-Fi,2004
+83,The Last Journey 83,Comedy,2000
+84,The Last Journey 84,Horror|Animation,2016
+85,Love in Paris 85,Animation,2016
+86,The Final Mission 86,Drama,2001
+87,Dark Secrets 87,Romance|Horror,2021
+88,Hidden Truth 88,Action|Horror|Thriller,2016
+89,The Lost World 89,Drama|Action|Animation,2007
+90,The Last Journey 90,Thriller,2007
+91,The Lost World 91,Drama|Animation,2011
+92,Beyond the Stars 92,Animation,2010
+93,The Final Mission 93,Sci-Fi|Animation|Action,2020
+94,Beyond the Stars 94,Animation|Drama|Romance,2006
+95,City of Dreams 95,Romance|Action|Animation,2000
+96,Love in Paris 96,Sci-Fi|Horror|Comedy,2021
+97,The Last Journey 97,Horror|Sci-Fi|Thriller,2012
+98,Dark Secrets 98,Action|Drama|Romance,2022
+99,Beyond the Stars 99,Sci-Fi|Comedy|Animation,2025
+100,City of Dreams 100,Comedy|Animation,2005
+101,Dark Secrets 101,Thriller|Comedy,2011
+102,The Lost World 102,Action,2020
+103,Hidden Truth 103,Animation|Horror,2014
+104,Dark Secrets 104,Romance|Animation,2002
+105,Love in Paris 105,Horror,2008
+106,Love in Paris 106,Thriller,2014
+107,Love in Paris 107,Romance|Horror|Comedy,2003
+108,Hidden Truth 108,Thriller,2000
+109,Love in Paris 109,Action|Thriller,2003
+110,Hidden Truth 110,Action,2019
+111,Hidden Truth 111,Romance,2009
+112,The Last Journey 112,Sci-Fi|Animation|Comedy,2022
+113,The Last Journey 113,Horror,2000
+114,Love in Paris 114,Romance,2008
+115,The Last Journey 115,Horror|Drama|Sci-Fi,2023
+116,Hidden Truth 116,Sci-Fi|Drama|Comedy,2010
+117,City of Dreams 117,Animation|Drama,2000
+118,Beyond the Stars 118,Comedy,2023
+119,The Last Journey 119,Horror,2018
+120,The Last Journey 120,Action|Animation,2018
